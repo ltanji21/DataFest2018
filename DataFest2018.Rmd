@@ -1,0 +1,46 @@
+---
+title: "DataFest"
+author: "Dana Vera, Paige Patrick, Mathena Abramson, Yejin Hwang, Leigh Tanji"
+date: "2018年3月23日"
+output: html_document
+---
+
+Welcome to DataFest 2018!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
