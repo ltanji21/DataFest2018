@@ -7,6 +7,9 @@ output: html_document
 
 Welcome to DataFest 2018!
 
+```{r}
+library(tidyverse)
+```
 
 
 
